@@ -1,0 +1,69 @@
+body {
+  font-family: "Encode Sans", sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+}
+header img {
+  height: 36px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.conteudo-principal {
+  width: 1250px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 34px auto 0 auto;
+}
+.destaques {
+  width: 664px;
+}
+
+.materia-principal {
+  font-size: 52px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.materia-principal a {
+  color: #c4160c;
+  line-height: 67px;
+}
+.materia-secundaria {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  display: flex;
+  flex-direction: column;
+}
+
+.divisao-sem-foto {
+  margin-bottom: 15px;
+}
+
+.materia-secundaria a:first-child {
+  color: #303134;
+  margin-bottom: 7px;
+}
+
+.materia-secundaria a:last-child {
+  color: #303134;
+  margin-bottom: 20px;
+}
+
+.linha-vertical {
+  height: 845px;
+  border-right: 1px solid #ebedef;
+}
+.linha-horizontal {
+  width: 624px;
+  border: 1px solid #ebedef;
+}

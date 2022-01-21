@@ -1,0 +1,59 @@
+.g1:hover {
+  color: #ff2010;
+}
+
+.o-globo:hover {
+  color: #2a73f1;
+}
+
+.valor:hover {
+  color: rgb(6, 116, 150);
+}
+
+.ge:hover {
+  color: #0ace58;
+}
+
+.cartola:hover {
+  color: #ff783a;
+}
+
+.globoplay:hover {
+  color: #ee3859;
+}
+
+.dropz:hover {
+  color: #ffa0cf;
+}
+
+.gshow:hover {
+  color: #ffa135;
+}
+
+.quem:hover {
+  color: #586464;
+}
+
+.receitas:hover {
+  color: #e938ba;
+}
+
+.materia-principal a:hover {
+  color: #f72415;
+}
+.materia-secundaria a:hover {
+  color: #8b8b8b;
+}
+
+.conteudo-direita div h2:hover {
+  color: #595a5c;
+}
+
+.linha-noticias h2:hover {
+  color: #595a5c;
+}
+
+.conteudo-principal img:hover {
+  background-color: rgb(41, 36, 36);
+  opacity: 0.5;
+}
